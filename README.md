@@ -6,7 +6,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework API for system.
+[Nest](https://github.com/nestjs/nest) API for the Workout Texts app
 
 ## Project setup
 
