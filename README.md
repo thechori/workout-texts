@@ -16,6 +16,12 @@ $ pnpm install
 
 ## Compile and run the project
 
+First, spin up local DB:
+
+```bash
+$ docker-compose up -d
+```
+
 ```bash
 # development
 $ pnpm run start
